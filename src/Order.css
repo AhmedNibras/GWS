@@ -1,0 +1,21 @@
+.order{
+    padding: 14px;
+    margin : 20px 0;
+    position: relative;
+    color : white;
+    border: 1px solid rgb(126, 20, 20);
+}
+
+.order_id{
+    position: absolute;
+    top: 40px;
+    right: 20px;
+}
+
+.order_total{
+    font-weight: 500;
+    text-align: right;
+}
+.wot{
+    color: white;
+}

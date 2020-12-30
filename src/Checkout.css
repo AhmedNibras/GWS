@@ -1,0 +1,17 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  color: white;
+  height: max-content;
+}
+
+.checkout_ad {
+  width: 98%;
+  margin-bottom: 10px;
+  mask-image: linear-gradient(to bottom, rgb(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+.checkout_title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
